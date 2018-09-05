@@ -1,0 +1,4 @@
+homeassistant/docker-build.log
+homeassistant/docker-build.version
+homeassistant/Dockerfile
+homeassistant/start.sh

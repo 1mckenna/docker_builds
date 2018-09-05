@@ -3,7 +3,7 @@
 ### Home Assistant Build Script utilizing a patched version of OpenZwave to add support for the Barrier Class
 
 
-##My Docker Stack Setup
+## My Docker Stack Setup
 * OS: CentOS7
 * Docker Container Management: Portainer (https://portainer.io/)
 * Reverse Proxy/Load Balancing: Traefik (https://traefik.io/)
